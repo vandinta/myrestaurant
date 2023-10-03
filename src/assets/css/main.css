@@ -1,3 +1,38 @@
 #app {
   font-family: 'Montserrat', sans-serif;
 }
+
+.router-link-exact-active {
+  font-weight: bold;
+}
+
+.btn-info {
+  background-color: #3AC7FF;
+}
+
+.badge-info {
+  background-color: #3AC7FF;
+}
+
+.card-product {
+  border-radius: 20px;
+}
+
+.card-img-top {
+  border-top-right-radius: 20px;
+  border-top-left-radius: 20px;
+}
+
+.breadcrumb {
+  background-color: transparent;
+  padding: 0;
+}
+
+.breadcrumb-item.active {
+  font-weight: bold;
+  color: black;
+}
+
+.img-fluid {
+  border-radius: 20px;
+}
